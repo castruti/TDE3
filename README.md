@@ -33,7 +33,7 @@ Foram utilizados três vetores de teste:
 | **Cocktail Sort** | 0.0068 ms / 78 / 154 | 0.0008 ms / 0 / 19 | 0.0085 ms / 190 / 190 |
 | **Comb Sort** | 0.0043 ms / 22 / 129 | 0.0025 ms / 0 / 110 | 0.0034 ms / 18 / 129 |
 | **Gnome Sort** | 0.0051 ms / 78 / 176 | 0.0008 ms / 0 / 20 | 0.0121 ms / 190 / 400 |
-| **Bucket Sort** | 0.6864 ms / 20 / 40 | 0.0467 ms / 0 / 40 | 0.0238 ms / 20 / 40 |
+| **Bucket Sort** | 0.0235 ms / 19 / 72 | 0.023 ms / 0 / 70 | 0.0218 ms / 63 / 102 |
 
 ---
 
