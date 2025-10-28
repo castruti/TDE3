@@ -1,5 +1,7 @@
 #  TDE 3 – Ordenação 
 
+Aluno: Gabriel Calado da Silva Castro
+
 ##  Algoritmos Implementados
 - Bubble Sort (com flag de parada)  
 - Selection Sort  
